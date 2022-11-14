@@ -1,3 +1,3 @@
 # portfolio
 
-https://dinneptireddysaigeethesh.github.io/portfolio/
+https://jeeva-n.github.io/portpolio/
